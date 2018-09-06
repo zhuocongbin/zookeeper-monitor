@@ -9,7 +9,7 @@ import java.io.IOException;
  * date 2018/8/30
  */
 public class ZookeeperClient {
-    private static String ipPort = "172.19.3.10:2181,172.19.3.11:2181,172.19.3.12:2181";
+    private static String ipPort = "xxx.xx.x.xxx:2181,xxx.xx.x.xxx:2181,xxx.xx.x.xxx:2181";
     private static class ZookeeperBuild {
         private static ZooKeeper zk;
         static {
